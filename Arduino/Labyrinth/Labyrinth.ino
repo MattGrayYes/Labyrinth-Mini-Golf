@@ -1,7 +1,13 @@
 // Labyrinth Mini Golf
 // Arduino Controller by Matt Gray
 // http://www.mattg.co.uk/projects/golf
-
+//
+// Wii nunchuck plugs through
+// Wiichuck Adapter http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/
+// plugged into analog ports
+//
+// 2 servos plug into Digital 9 and 10.
+//
 
 #include <Servo.h> 
 
